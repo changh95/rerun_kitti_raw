@@ -1,6 +1,6 @@
 # Rerun visualization for KITTI dataset
 
-This is a repository for [Rerun]() visualization of the KITTI dataset.
+This is a repository for [Rerun](https://github.com/rerun-io/rerun) visualization of the KITTI dataset.
 
 Currently, only the raw-sync dataset is supported.
 
